@@ -1,3 +1,6 @@
+#include<iostream>
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     int helper(vector<int>&A,int k){
